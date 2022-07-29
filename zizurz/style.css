@@ -1,0 +1,225 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* top head box starts from here */
+.full-width{
+    width:100%;
+    height: 150px;
+    background-color: skyblue;
+    margin-top: bottom;
+}
+.between{
+    width:940px;
+    height:150px;
+    /* background-color:blue; */
+    margin:0 auto;
+    position:relative;
+    right: 10px;
+}
+.ziz{
+width: 200px;
+height: 120px;
+background-color:darkblue;
+position:relative;
+top: 40px;
+}
+.ziz h1{
+    color:white;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 60px;
+}
+ul{
+    float:right;
+    /* background-color: aqua; */
+    /* margin-right: 50px; */
+    position: relative;
+    left:50px;
+    bottom: 30px;
+}
+ul li{
+float:left;
+/* display: inline-block; */
+background-color: darkblue;
+/* padding-top: 8px; */
+color: white;
+list-style: none;
+margin-right: 60px;
+/* margin-left: 20px; */
+padding: 8px 20px;
+border-radius: 6px;
+}
+
+
+.main{
+width: 960px;
+height: 1400px;
+/* background-color: grey; */
+margin:0 auto;
+}
+/* first box strts from here */
+.first{
+width: 936px;
+height: 356px;
+background-color: white;
+border: 3px solid skyblue;
+margin-top: 50px;
+}
+.first h1{
+    float: right;
+    margin-top: 170px;
+    margin-right: 230px;
+}
+/* second box starts from here */
+.second{
+    margin-right: 27px;
+width: 210px;
+display:inline-block ;
+}
+.second img{
+border:4px solid skyblue;
+margin-top:30px;
+margin-bottom: 20px;
+}
+.second p{
+    line-height: 25px;
+    padding-top:10px;
+}
+/* third box starta from here */
+.third{
+    margin-top: 40px;
+    
+}
+.left{
+    width:430px;
+    border:3px solid skyblue;
+    padding: 10px;
+    float:left;
+}
+/* to provide width and color to the feature */
+.fea{
+    width:150px;
+    height:40px;
+    background-color:  #222841;
+    color:white;
+    /* margin-bottom: -90px; */
+    position: relative;
+    bottom: 38px;
+    /* left: 20px; */
+}
+/* to make the feature text in the center */
+.fea h2{
+    text-align: center;
+    padding-top:8px;
+}
+.left img{
+    float: left;
+    margin-bottom: 30px;
+}
+.left h3{
+    float: right;
+    margin-right: 100px;
+    margin-top: 0px;
+}
+.left p{
+    clear:both;
+    line-height: 22px;
+}
+/* RIGHT TOP STARTS FROM HERE */
+.righttop{
+    color:white ;
+width: 430px;
+background-color:darkcyan;
+border:5px solid lightblue;
+padding: 15px;
+float:right;
+margin-right: 20px;
+}
+
+.hairstyle{
+    width:150px;
+    height:40px;
+    background-color:  #222841;
+    color:white;
+    /* margin-bottom: -90px; */
+    position: relative;
+    bottom: 40px;
+    /* left: 20px; */
+}
+.hairstyle h2{
+    text-align: center;
+    padding: 8px;
+}
+.righttop h5{
+    text-align: center;
+    float: right;
+}
+/* right bottom box starts from here */
+.rightbotom{
+color:white;
+width: 460px;
+background-color:darkcyan ;
+border: 5px solid lightblue;
+/* padding: 15px; */
+/* margin-right: 50px; */
+float: right;
+height: 200px;
+line-height: 25px;
+position:relative;
+left:-20px;
+top:30px;
+}
+.rightbotom img{
+    float: left;
+    position: relative;
+    top:-15px;
+    width: 39%;
+}
+.rightbotom p{
+    float: right;
+    padding-right:30px;
+    padding-top:30px;
+    font-weight: bolder;
+}
+.footer-full{
+    width: 100%;
+    height: 150px;
+    background-color: lightblue;
+    clear:both;
+    margin-top: 50px;
+
+}
+.foooter-text{
+    width: 936px;
+    height: 150px;
+    /* background-color:red; */
+    margin: 0 auto;
+   
+}
+.foooter-text p{
+    padding-top: 80px;
+    padding-left: 350px;
+}
+.social{
+    width: 150px;
+    height: 40px;
+background-color:#99c4d6;
+margin-left: 700px;
+position: relative;
+bottom: 40px;
+font-size: 26px;
+padding-top: 20px;
+padding-left: 30px;
+color:rgba(0, 0, 0, 0.575);
+cursor: pointer;
+}
+.fa:hover{
+    color:black;
+}
+
+
+
+
+
+
